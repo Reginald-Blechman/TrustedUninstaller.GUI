@@ -9,3 +9,5 @@ Anyhow... <br>
 
 
 ## Enjoy!
+
+![does_he](https://github.com/Reginald-Blechman/TrustedUninstaller.GUI/blob/main/GG.png?raw=true)
