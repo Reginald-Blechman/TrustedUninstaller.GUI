@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Pages\IsoModePage\IsoFeaturePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\IsoModePage\IsoFeaturesPane.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\IsoModePage\IsoOptionPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\IsoModePage\IsoOptionsPane.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\IsoPage\RadioPlaybookButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\IsoPage\UsbProgressItem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ModePage\FeaturePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ModePage\FeaturesPane.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ModePage\RadioImageButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\SelectPage\SelectISOPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\SelectPage\SelectISOPane.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TweakDialog\TweakModules\CCleaner.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TweakDialog\TweakModules\Rectify11.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TweakDialog\TweakModules\Shutup10.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TweakDialog\TweakModules\Start11.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TweakDialog\TweakModules\StartAllBack.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TweakDialog\TweakPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UninstallUpdateDialog\Default.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UninstallUpdateDialog\UninstallUpdatePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UsbWriteDialog\UsbProgressItem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Utils\Service.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\FinishErrorPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\FinishPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\IntroPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\IsoLicensePageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\IsoModePageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\IsoOptionsPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\IsoPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\IsoRequirementsPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoadPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ModePageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProgressPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\AboutWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\AntivirusDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\ApplyPackageDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\IsoProgressDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\PrepareDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\ProgressDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\SecurityDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\TweaksDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\UACBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\UninstallUpdatesDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\UpdatesDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\UsbWriteDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
